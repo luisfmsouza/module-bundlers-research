@@ -33,8 +33,11 @@ Frictionless browser package management. [Getting Started](https://github.com/js
 ##Browserify vs Webpack
 - [Browserify VS Webpack - JS Drama](http://blog.namangoel.com/browserify-vs-webpack-js-drama)
 
-##JSPM vs Webpack
+##Webpack vs JSPM
+
+- [JSPM vs webpack](http://ilikekillnerds.com/2015/07/jspm-vs-webpack/)
+
+##Browserify vs Webpack vs JSPM
 
 - [Comparison Table](https://webpack.github.io/docs/comparison.html)
 
-- [JSPM vs webpack](http://ilikekillnerds.com/2015/07/jspm-vs-webpack/)
