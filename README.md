@@ -4,7 +4,7 @@ This is a collection of interesting links about module bundlers, specially about
 > Feel free to contribute sending your link! :smile:
 
 ##Browserify
-Browserify lets you require('modules') in the browser by bundling up all of your dependencies.[Getting Started](https://github.com/substack/node-browserify#getting-started)
+Browserify lets you ` require('modules') ` in the browser by bundling up all of your dependencies. [Getting Started](https://github.com/substack/node-browserify#getting-started)
 
 ##Webpack
 Getting started by reading the [documentation](http://webpack.github.io/docs/), which also contains an [introduction](http://webpack.github.io/docs/what-is-webpack.html) and a [tutorial](http://webpack.github.io/docs/tutorials/getting-started/).
