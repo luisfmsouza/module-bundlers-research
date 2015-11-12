@@ -1,7 +1,10 @@
 #Module bundlers research
-This is a collection of interesting links about module bundlers, specially about [webpack](http://webpack.github.io), [JSPM](http://jspm.io/) and comparison with both.
+This is a collection of interesting links about module bundlers, specially about [Browserify](http://browserify.org/), [webpack](http://webpack.github.io), [JSPM](http://jspm.io/) and comparison with both.
 
 > Feel free to contribute sending your link! :smile:
+
+##Browserify
+Browserify lets you require('modules') in the browser by bundling up all of your dependencies.[Getting Started](https://github.com/substack/node-browserify#getting-started)
 
 ##Webpack
 Getting started by reading the [documentation](http://webpack.github.io/docs/), which also contains an [introduction](http://webpack.github.io/docs/what-is-webpack.html) and a [tutorial](http://webpack.github.io/docs/tutorials/getting-started/).
@@ -26,6 +29,9 @@ Frictionless browser package management. [Getting Started](https://github.com/js
 - [Aurelia + JSPM: Deployment Best Practices & Unknowns](http://ilikekillnerds.com/2015/09/aurelia-jspm-deployment-best-practices-unknowns/)
 
 - [Package Manager: Bower vs jspm](http://stackoverflow.com/questions/25416813/package-manager-bower-vs-jspm)
+
+##Browserify vs Webpack
+- [Browserify VS Webpack - JS Drama](http://blog.namangoel.com/browserify-vs-webpack-js-drama)
 
 ##JSPM vs Webpack
 
