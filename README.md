@@ -22,6 +22,8 @@ Frictionless browser package management. [Getting Started](https://github.com/js
 
 - [Using browserify/webpack? Why not try jspm and SystemJS](http://nervosax.com/2015/08/05/why-not-try-jspm-and-systemjs/)
 
+- [Choose ES6 modules Today!](http://developer.telerik.com/featured/choose-es6-modules-today/)
+
 ##JSPM vs Webpack
 
 - [JSPM vs webpack](http://ilikekillnerds.com/2015/07/jspm-vs-webpack/)
