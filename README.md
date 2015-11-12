@@ -15,19 +15,20 @@ Getting started by reading the [documentation](http://webpack.github.io/docs/), 
 ##JSPM
 Frictionless browser package management. [Getting Started](https://github.com/jspm/jspm-cli/blob/master/docs/getting-started.md)
 
+- [Choose ES6 modules Today!](http://developer.telerik.com/featured/choose-es6-modules-today/)
 
 - [JavaScript Modules and Dependencies with jspm](http://javascriptplayground.com/blog/2014/11/js-modules-jspm-systemjs/)
 
-- [Package Manager: Bower vs jspm](http://stackoverflow.com/questions/25416813/package-manager-bower-vs-jspm)
-
 - [Using browserify/webpack? Why not try jspm and SystemJS](http://nervosax.com/2015/08/05/why-not-try-jspm-and-systemjs/)
-
-- [Choose ES6 modules Today!](http://developer.telerik.com/featured/choose-es6-modules-today/)
 
 - [Production workflows](https://github.com/jspm/jspm-cli/blob/master/docs/production-workflows.md)
 
+- [Aurelia + JSPM: Deployment Best Practices & Unknowns](http://ilikekillnerds.com/2015/09/aurelia-jspm-deployment-best-practices-unknowns/)
+
+- [Package Manager: Bower vs jspm](http://stackoverflow.com/questions/25416813/package-manager-bower-vs-jspm)
+
 ##JSPM vs Webpack
 
-- [JSPM vs webpack](http://ilikekillnerds.com/2015/07/jspm-vs-webpack/)
-
 - [Comparison Table](https://webpack.github.io/docs/comparison.html)
+
+- [JSPM vs webpack](http://ilikekillnerds.com/2015/07/jspm-vs-webpack/)
