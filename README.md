@@ -24,6 +24,8 @@ Frictionless browser package management. [Getting Started](https://github.com/js
 
 - [Choose ES6 modules Today!](http://developer.telerik.com/featured/choose-es6-modules-today/)
 
+- [Production workflows](https://github.com/jspm/jspm-cli/blob/master/docs/production-workflows.md)
+
 ##JSPM vs Webpack
 
 - [JSPM vs webpack](http://ilikekillnerds.com/2015/07/jspm-vs-webpack/)
