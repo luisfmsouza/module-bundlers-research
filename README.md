@@ -15,7 +15,7 @@ Getting started by reading the [documentation](http://webpack.github.io/docs/), 
 
 - [Diving into Webpack](https://web-design-weekly.com/2014/09/24/diving-webpack/)
 
-- [Writing client-side ES6 with webpack](http://www.2ality.com/2015/04/webpack-es6.html)
+- [Writing client-side ES6 with webpack](http://www.2ality.com/2015/04/webpack-es6.html) :new:
 
 ##JSPM
 Frictionless browser package management. [Getting Started](https://github.com/jspm/jspm-cli/blob/master/docs/getting-started.md)
@@ -31,6 +31,8 @@ Frictionless browser package management. [Getting Started](https://github.com/js
 - [Aurelia + JSPM: Deployment Best Practices & Unknowns](http://ilikekillnerds.com/2015/09/aurelia-jspm-deployment-best-practices-unknowns/)
 
 - [Package Manager: Bower vs jspm](http://stackoverflow.com/questions/25416813/package-manager-bower-vs-jspm)
+
+- [JS module loader: switch from Bower + RequireJS to jspm + SystemJS](https://github.com/guardian/frontend/pull/9005) :new:
 
 ##Browserify vs Webpack
 - [Browserify VS Webpack - JS Drama](http://blog.namangoel.com/browserify-vs-webpack-js-drama)
