@@ -15,6 +15,8 @@ Getting started by reading the [documentation](http://webpack.github.io/docs/), 
 
 - [Diving into Webpack](https://web-design-weekly.com/2014/09/24/diving-webpack/)
 
+- [Writing client-side ES6 with webpack](http://www.2ality.com/2015/04/webpack-es6.html)
+
 ##JSPM
 Frictionless browser package management. [Getting Started](https://github.com/jspm/jspm-cli/blob/master/docs/getting-started.md)
 
